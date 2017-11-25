@@ -1,4 +1,6 @@
 # Podlove Web Player – HTML5 Goodness for Podcasting
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Feteubert%2Fpodlove-web-player.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Feteubert%2Fpodlove-web-player?ref=badge_shield)
+
 
 Podlove Web Player is a Podcast-optimized, HTML5-based video and audio player with Flash fallback. It supports almost every browser and also does captions, chapters and much more. Thanks to MediaElement.js for providing the foundation.
 
@@ -169,3 +171,6 @@ You can use Wordpress shortcodes in your templates using the do_shortcode functi
 1. Upload the `podlove-web-player` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the `Plugins` menu in WordPress
 3. Use the `[video]` or `[audio]` shortcode in your post or page with the options on the front page.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Feteubert%2Fpodlove-web-player.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Feteubert%2Fpodlove-web-player?ref=badge_large)
